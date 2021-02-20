@@ -1,0 +1,31 @@
+export const Images = [
+  {
+    image:
+      "https://th.bing.com/th/id/OIP.3tOxsl6c44YIRk_eWIyHRAHaEK?pid=Api&rs=1",
+  },
+  {
+    image:
+      "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/06/Star-Wars-Rogue-One-Stormtrooper.jpg",
+  },
+  {
+    image:
+      "https://th.bing.com/th/id/Rb1fb7de8524cee998461fe7c8f848b60?rik=fZVpUbp58vQ4pw&riu=http%3a%2f%2fwallpaperswide.com%2fdownload%2fstar_wars_the_force_awakens_rey_bb_8-wallpaper-480x640.jpg&ehk=Pbd21aqE79zXDbTgd6omOfkB%2ftbt9cF2GRLvO5i3UVE%3d&risl=&pid=ImgRaw",
+  },
+
+  {
+    image:
+      "https://static3.srcdn.com/wordpress/wp-content/uploads/2020/03/Star-Wars-Sequel-Trilogy.jpg",
+  },
+  {
+    image:
+      "https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2019/11/18/30b09b93-2654-46c9-a9d0-e7b68c251180/star-wars-jedi-fallen-order-lightsaber",
+  },
+  {
+    image:
+      "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/06/star-wars-squadrons-gameplay-trailer-release-date.jpg",
+  },
+  {
+    image:
+      "https://www.denofgeek.com/wp-content/uploads/2020/10/Star-Wars-Squadrons.jpg?fit=1280%2C720",
+  },
+];
